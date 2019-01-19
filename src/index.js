@@ -7,7 +7,7 @@ import * as serviceWorker from './serviceWorker';
 {/* เราสามารถ Render Component กี่อันก็ได้ ภายใน  document.getElementById('root') */}
 ReactDOM.render(
 
-<App name="champ"/>
+<App/>
 ,document.getElementById('root')
 
 );
